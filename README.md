@@ -1,6 +1,6 @@
 # Dia Puppet module for Boxen
 
-[![Build Status](https://travis-ci.org/adamcrews/puppet-dia.png?branch=master)](https://travis-ci.org/adamcrews/puppet-dia)
+[![Build Status](https://travis-ci.org/boxen/puppet-dia.svg?branch=master)](https://travis-ci.org/boxen/puppet-dia)
 
 Install [Dia](http://sourceforge.net/projects/dia-installer/), a pretty good thing for editing diagrams.
 
